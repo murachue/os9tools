@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    kaitai-struct (0.9)
+
+PLATFORMS
+  x64-mingw32
+
+DEPENDENCIES
+  kaitai-struct
+
+BUNDLED WITH
+   2.2.3
